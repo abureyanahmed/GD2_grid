@@ -1,0 +1,1 @@
+b"Opening JSON file..\nfn: input_54.txt\nmetrics: ['gabriel']\ngraph: grid 10\ngenerating graph of 100 nodes\nstress 279.5856364581366\ncrossings 0\ncrossing_angle_maximization 0\ngabriel 5.364418029785156e-07\nedge_uniformity 0.00483790785074234\nvertex_resolution 0.5181954205036163\nneighborhood_preservation 1\naspect_ratio 0.15893280506134033\nangular_resolution 1.0\n"
